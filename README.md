@@ -10,8 +10,9 @@ This site was built using React.
 
 ## Deployed Link
 
-https://josiesportfolio.herokuapp.com/
+https://jossparling.github.io/js-portfolio/
 
 ## Screenshot 
 
-<img width="879" alt="Screen Shot 2022-09-21 at 3 35 11 PM" src="https://user-images.githubusercontent.com/102888399/191605277-b587091f-4d28-42f9-83f4-15742298094a.png">
+
+<img width="639" alt="Screen Shot 2022-10-14 at 3 25 20 PM" src="https://user-images.githubusercontent.com/102888399/195937474-e748b07d-bf48-4649-84f0-4ee0e660d40a.png">
