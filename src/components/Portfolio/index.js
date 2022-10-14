@@ -10,7 +10,7 @@ const Portfolio = () => {
             deployedUrl: 'https://secure-stream-79386.herokuapp.com/',
             description: 'An online community for poets to share poems and start a conversation on the meaning of the poem or what the poem means to them.',
             technologies: ['React', 'GraphQL', 'MongoDB', 'MongooseODM','JavaScript','ExpressJS','HTML', 'MaterialUI', 'CSS', 'NodeJS' ],
-            imgName: 'SynaxPoetry.png'
+            imgName: 'SyntaxPoetry.png'
         },
         {
             name: 'National Park & Weather App',

@@ -1,5 +1,7 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 import profilePic from '../../assets/images/profilePic.jpg';
+
 function About() {
   return (
     <section className="about">
@@ -15,7 +17,7 @@ function About() {
         I live in Austin, Texas and for the past 7 years of my career I've worked for Apple Corporate. Currently I'm on the Digital Content Management team as a Production Specialist. 
         </p>
         <p>
-          I am certified in Full Stack Development using the MERN stack from the University of Texas at Austin. Please take a look around and fill out my contact form to get in touch. 
+          I am certified in Full Stack Development using the MERN stack from the University of Texas at Austin. Please take a look around. <Link to="/contact">Fill out my contact form to get in touch!</Link>
         </p>
       </div>
     </section>

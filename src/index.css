@@ -171,11 +171,12 @@ ul li a:hover, .project-links:hover {
   width: 100%;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
-  border-bottom: 5px double var(--secondary-color);
+  border-bottom: 5px double var(--white);
 }
 
 /* Project Component Styles */
 .project-wrapper {
+  color: white;
   padding: 3px 5px;
   margin-top: 1px;
 }
