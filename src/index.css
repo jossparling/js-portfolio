@@ -158,7 +158,7 @@ ul li a:hover, .project-links:hover {
 
 .about-pic img {
   border: 1px solid var(--white);
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 .about-pic div {
