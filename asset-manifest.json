@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/js-portfolio/static/css/main.9fbca4a7.css",
+    "main.js": "/js-portfolio/static/js/main.db15db5c.js",
+    "static/js/787.5ab38ef3.chunk.js": "/js-portfolio/static/js/787.5ab38ef3.chunk.js",
+    "static/media/profilePic.jpg": "/js-portfolio/static/media/profilePic.fe63a03ac1f16be8c7ca.jpg",
+    "static/media/SyntaxPoetry.png": "/js-portfolio/static/media/SyntaxPoetry.6a82565eed26abcd33cb.png",
+    "static/media/NPWD.png": "/js-portfolio/static/media/NPWD.7c68e83f1b9e65a5d3f7.png",
+    "static/media/WorkDayScheduler.png": "/js-portfolio/static/media/WorkDayScheduler.f9a6c7583078f4c42073.png",
+    "static/media/AdobeStock_298363329.jpeg": "/js-portfolio/static/media/AdobeStock_298363329.f597c8e3135042504fac.jpeg",
+    "index.html": "/js-portfolio/index.html",
+    "main.9fbca4a7.css.map": "/js-portfolio/static/css/main.9fbca4a7.css.map",
+    "main.db15db5c.js.map": "/js-portfolio/static/js/main.db15db5c.js.map",
+    "787.5ab38ef3.chunk.js.map": "/js-portfolio/static/js/787.5ab38ef3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fbca4a7.css",
+    "static/js/main.db15db5c.js"
+  ]
+}
